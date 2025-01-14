@@ -5,8 +5,17 @@ A dynamic and user-friendly To-Do List application built using **React** for man
 ## Screenshots
 
 ![Screenshot 1](images/img1.png)
+
+<br>
+
 ![Screenshot 2](images/img2.png)
+
+<br>
+
 ![Screenshot 3](images/img3.png)
+
+<br>
+
 
 ## Features
 
